@@ -9,3 +9,6 @@ def sum(a,b):
 
 def action(a):
   return a/3
+
+def adrer(a):
+  return a
