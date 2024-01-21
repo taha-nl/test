@@ -6,3 +6,6 @@ def multiply(a,b):
 
 def sum(a,b):
   return a + b
+
+def action(a):
+  return a/3
