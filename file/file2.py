@@ -1,3 +1,3 @@
 print("test1")
-def version(version):
-    return version
+def version23():
+  return 2
